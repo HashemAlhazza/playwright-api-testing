@@ -8,7 +8,7 @@ This project uses Playwright with Pytest to test APIs from the mock server [reqr
 - Auth API: Login, Register (success/failure)
 - Resource API: List resources, single resource
 
-## Tools Used:
+## Tools Used
 - Python 3
 - Pytest
 - Playwright
